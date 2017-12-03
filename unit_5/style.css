@@ -1,4 +1,8 @@
-<div-class="intro"
+
+header{
+	border-style: dashed;
+	background-color: #FFED74;
+}
 p {
     text-align: center;
     color: red;
@@ -6,27 +10,57 @@ p {
     background-color:black;
     font-color:white;
 } 
-</div>
 body {
-	background-image: "https://www.google.com.au/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiZ4ZWB95fXAhUFGZQKHfHXCl8QjRwIBw&url=https%3A%2F%2Fwww.global-business-school.org%2Fannouncements%2F6-digital-business-ideas-will-meet-market-demand&psig=AOvVaw1BZ3P3CcAlJSmqZFrofYXE&ust=1509438563412725"
+	background-image:url(images/building_background.jpg);
+	background-size: cover;
+	background-position: top center;
 }
-
+nav{
+	list-style-type: circle;
+	font-style: all;
+	background-color: #E8C66A
+}
+aside{
+	background-color: #FFC675
+}
+article{
+	background-color:  #E89C6C
+}
 h1 {
 	text-align: center;
-	font-size: 16px;
+	font-size: 30px;
 	font-style: all;
 	font-family: 'slabo', serif;
-	color: rgb(20,3,40)
+	color: rgb(20,3,40);
+}
+h2{
+	text-align: center;
 }
 
 ul {
-	color: rgb(198, 99, 165)
-	text-align:center;
+	color: rgb(198, 99, 165);
+	text-align:left;
 	font-style: italic;
 	font-weight: bold;
+	font-size:20px;
+	list-style-type: none;
 }
-</style>
 
+section{
+	font-size: 20px;
+	text-align: center;
+	background-color: #FFE2B8;
+}
+div{
+	background-image: url(http://www.australia.com/content/australia/en_gb/places/melbourne/_jcr_content/hero/image.adapt.1663.medium.jpg)
+	background-color: #FFE2B8;
+}
+.one{
+	align-content: center;
+}
+footer{
+	background-color: #FF957E;
+}
 
 
 

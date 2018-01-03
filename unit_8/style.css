@@ -1,0 +1,93 @@
+
+header {
+	border-style: none;
+	background-color: #FDFEFE;
+}
+
+.header image{
+	max-width: 80%;
+	padding:5px;
+}
+
+p {
+    text-align: center;
+    color: red;
+    font-family: 'Slabo 12px', serif;
+    background-color: black;
+    font-color: white;
+} 
+
+body {
+	background-image: url(images/building_background.jpg);
+	background-size: cover;
+	background-position: top center;
+	font-size: 15px;
+}
+
+nav {
+	font-style: all;
+	font-size: 2.5em;
+	text-decoration-color: #000000;
+	background-color: #FDFEFE;
+	max-width: 95%;
+	float: none;
+	display: block;
+	padding: 20px;
+	text-align: center;
+	word-spacing: 30px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 2em;
+	font-style: all;
+	font-family: 'slabo', serif;
+	color: rgb(20,3,40);
+}
+
+h2 {
+	text-align: center;
+	font-size: 1.0em;
+	font-family: 'slabo', serif;
+}
+
+h3 {
+	text-align: left;
+
+}
+
+ul {
+	text-align: left;
+	font-weight: normal;
+	font-size: .8em;
+	list-style-type: none;
+}
+
+section {
+	font-size: 1em;
+	text-align: center;
+	background-color: #9D80B9;
+}
+
+div {
+	background-image: url(http://www.australia.com/content/australia/en_gb/places/melbourne/_jcr_content/hero/image.adapt.1663.medium.jpg)
+	background-color: #FFE2B8;
+}
+
+footer {
+	background-color: #FDFEFE;
+	font-size: 1em;
+	font-family: none;
+	padding: 10px;
+}
+
+#column {
+	background-color: #E582A2;
+    border: 1px black solid;
+    padding: 5px;
+    width: 90%;
+    text-align: center;
+}
+
+
+

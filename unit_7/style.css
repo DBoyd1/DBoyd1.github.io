@@ -1,37 +1,45 @@
 
-header{
-	border-style: dashed;
-	background-color: #FFED74;
+header {
+	border-style: solid;
+	background-color: #9D80B9  ;
 }
+
 p {
     text-align: center;
     color: red;
     font-family: 'Slabo 12px', serif;
-    background-color:black;
-    font-color:white;
+    background-color: black;
+    font-color: white;
 } 
+
 body {
 	background-image: url(images/building_background.jpg);
 	background-size: cover;
 	background-position: top center;
+	font-size: 14px;
 }
-nav{
+
+nav {
 	list-style-type: circle;
 	font-style: all;
-	background-color: #E8C66A
+	background-color: #E8C66A;
 }
-nav a{
-	  text-decoration: none;
-  color: #000000;
-  margin: 1.8em;
-  display: inline-block;
+
+nav a { 
+	text-decoration: none;
+  	color: #000000;
+  	margin: 1.8em;
+  	display: inline-block;
 }
-aside{
-	background-color: #FFC675
+
+aside {
+	background-color: #FFC675;
 }
-article{
-	background-color:  #E89C6C
+
+article { 
+	background-color: #E89C6C;
 }
+
 h1 {
 	text-align: center;
 	font-size: 30px;
@@ -39,69 +47,73 @@ h1 {
 	font-family: 'slabo', serif;
 	color: rgb(20,3,40);
 }
-h2{
+
+h2 {
 	text-align: center;
 }
 
 ul {
 	color: rgb(198, 99, 165);
-	text-align:left;
+	text-align: left;
 	font-style: italic;
 	font-weight: bold;
-	font-size:20px;
+	font-size: 20px;
 	list-style-type: none;
 }
 
-section{
+section {
 	font-size: 20px;
 	text-align: center;
 	background-color: #FFE2B8;
 }
-div{
+
+div {
 	background-image: url(http://www.australia.com/content/australia/en_gb/places/melbourne/_jcr_content/hero/image.adapt.1663.medium.jpg)
 	background-color: #FFE2B8;
-
 }
-.one{
+
+.one {
 	align-content: center;
 }
-footer{
+
+footer {
 	background-color: #FF957E;
 }
-a{
+
+a {
 	float: left;
-	padding: 20px;}
-}
-a:hoover{
-
+	padding: 20px;
 }
 
-#column{
+#column {
 	background-color: #FFB7CF;
     border: 1px black solid;
     padding: 0px;
 	float: all;
 }
 
-#column1{
+#column1 {
 	background-color: #E582A2;
     border: 1px black solid;
     padding: 5px;
     width: 100%;
 }
-#column2{
+
+#column2 { 
 	background-color: #E582A2;
     border: 1px black solid;
     padding: 5px;
     width: 100%;
 }
-#column3{
+
+#column3 {
     background-color: #E582A2;
     border: 1px black solid;
     padding: 5px;
     width: 100%;
 }
-#column4{
+
+#column4 {
 	background-color: #E582A2;
     border: 1px black solid;
     padding: 5px;
